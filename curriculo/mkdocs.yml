@@ -1,0 +1,6 @@
+site_name: Curriculum Vitae
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue
